@@ -1,7 +1,6 @@
 # Signals tutorial demo
 
-Examples for the [[Infographic/tutorial]] written at my blog.
-(http://www.brunosxs.com/2017/02/signals-in-godot.html)
+Examples for the [Infographic/tutorial](http://www.brunosxs.com/2017/02/signals-in-godot.html) written at my blog.
 
 
 ## Special Thanks to MarianoGnu (as usual)
